@@ -20,4 +20,5 @@ module.exports = {
     REDIS_URL: process.env.REDIS_URL,
     JWT_SECRET: process.env.JWT_SECRET,
     JWT_REFRESH_SECRET: process.env.JWT_REFRESH_SECRET,
+    RAPIDAPI_KEY: process.env.RAPIDAPI_KEY,
 };
