@@ -1,6 +1,6 @@
-# StyleAI Backend
+# AuraFit Backend
 
-The official backend server for **StyleAI**, a personal AI styling assistant.
+The official backend server for **AuraFit**, a personal AI styling assistant.
 
 This backend provides robust APIs for user authentication, profile management, wardrobe tracking, and AI-powered outfit generation using Google's Gemini AI. It's built with Node.js, Express, PostgreSQL, Redis, and Docker.
 
@@ -68,6 +68,9 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 # Gemini AI
 GEMINI_API_KEY=your_gemini_api_key
+
+# External Shopping API (RapidAPI)
+RAPIDAPI_KEY=your_rapidapi_key_here
 
 # Frontend URL (For CORS)
 FRONTEND_URL=http://localhost:5173
