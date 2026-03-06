@@ -1,7 +1,5 @@
 # AuraFit Backend
-
 The official backend server for **AuraFit**, a personal AI styling assistant.
-
 This backend provides robust APIs for user authentication, profile management, wardrobe tracking, and AI-powered outfit generation using Google's Gemini AI. It's built with Node.js, Express, PostgreSQL, Redis, and Docker.
 
 ## 🚀 Features
